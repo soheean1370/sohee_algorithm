@@ -1,4 +1,5 @@
 class Solution {
+    // 조합 공식상 13C3 -> n^3
     public int solution(int[] number) {
         int answer = 0;
         int n = number.length;
